@@ -44,69 +44,64 @@ background-image: linear-gradient(to right,rgb(108, 117, 201),rgb(0, 204, 255));
 }
 
 
-#logout
-{
+#logout{
 	font-size: 20px; 
 	float: right;
 }
 
 
-#output
-{
+#output{
 	padding: 10px; 
 	width:80%;
 	background: rgba(255,255,255,0.8);
 	border-radius: 15px;
 }
 
-.input_div_room_page
-{
+.input_div_room_page{
 	width: 80%;
 }
 
-.input_div label
-{
+.input_div label{
 	color: white;
 	font-size: 20px;
 }
 
 
-.input_div_message_page
-{
+.input_div_message_page{
 	position: fixed;
 	bottom: 0px;
 	width: 100%;
 	background: rgba(255,255,255,0.8);
 }
 
-.input_div_message_page label
-{
+.input_div_message_page label{
 	color: black;
 }
 
-.input_div_message_page #msg
-{
+.input_div_message_page #msg{
 	width: 80%;
 }
 
-.input_div_message_page button
-{
+.input_div_message_page button{
 	margin-top: 15px;
 	width: 50%; 
 }
 
-.color_white
-{
+.color_white{
 	color: white
 }
 
-.user_tick
-{
+.user_tick{
 	width:20px;
 }
 
-.message_h4
-{
+.message_h4{
 	padding-left:5px;
 	color:grey;
+}
+
+#Kwitter_room_button{
+	width: 40%;
+	border-radius: 15px;
+	background-color: rgb(108, 90, 214);
 }
